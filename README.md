@@ -4,8 +4,11 @@ Disclaimer: THIS IS NOT THE OFFICIAL PRISM LAUNCHER! This is just a personal pyt
 
 Features:
 -Importing files from CurseForge to Prism Launcher
+
 -Deleting CurseForge/Overwolf
+
 -Helping with the installation of Prism Launcher
+
 -Installing useful Modpacks
 
 (Don't worry, everything is optional)
