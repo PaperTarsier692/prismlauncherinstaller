@@ -3,6 +3,7 @@ Disclaimer: THIS IS NOT THE OFFICIAL PRISM LAUNCHER! This is just a personal pyt
             The Link to the official Launcher: https://github.com/PrismLauncher/PrismLauncher
 
 Features:
+
 -Importing files from CurseForge to Prism Launcher
 
 -Deleting CurseForge/Overwolf
